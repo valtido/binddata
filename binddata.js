@@ -1,3 +1,5 @@
+/*! binddata.js v0.0.1 https://github.com/valtido/binddata   2014 @Valtid Caushi*/
+
 ;(function($){
 	'use strict';
 	function binddata(){
